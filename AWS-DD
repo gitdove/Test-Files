@@ -36,12 +36,12 @@
                 },
                 "3": {
                     "type": "ipv4-addr",
-                    "value": " ",
+                    "value": "192.168.0.8",
                     "resolves_to_refs": "4"
                 },
                 "4": {
                     "type": "mac-addr",
-                    "value": "00:00:00:00:00:00"
+                    "value": "00:14:22:01:23:45"
                 },
                 "5": {
                     "type": "user-account",
